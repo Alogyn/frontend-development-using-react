@@ -4,7 +4,7 @@ My Responsive App is a simple web application built with React that demonstrates
 
 ## Table of Contents 📚
 
-- [Features](#features)
+- [Features](https://github.com/Alogyn/frontend-development-using-react?tab=readme-ov-file#technologies:~:text=License-,Features,-%E2%9C%A8)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
